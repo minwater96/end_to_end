@@ -3,3 +3,9 @@ def in_odd(x):
         return True
     else:
         return False
+
+def my_max(x, y):
+    if x > y:
+        return x
+    else:
+        return y
